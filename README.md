@@ -14,9 +14,6 @@ The idea is that having it via kwin script will make it work with any type of wa
 
 - clone the repo into `~/.local/share/plasma/kwin/scripts`
 
-[//]: # (- Download via [the KDE store]&#40;https://www.pling.com/p/2017888/&#41;)
-
-
 ## Configuration
 
 | Name | Description                                                                              | Result |
@@ -47,9 +44,5 @@ Do not hesitate to open a pr or an issue. I reply when I can.
 - [Give me a tips](https://ko-fi.com/a2n00)
 - [Give a star on github](https://github.com/bouteillerAlan/activeblur)
 - Or just participate to the developement :D
-
-[//]: # (- [Add a rating and a comment on Pling](https://www.pling.com/p/2017888/))
-[//]: # (- [Become a fan on Pling]&#40;https://www.pling.com/p/2017888/&#41;)
-
 
 ### Thanks !
