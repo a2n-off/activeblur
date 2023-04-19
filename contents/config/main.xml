@@ -5,11 +5,11 @@
 >
   <kcfgfile name=""/>
   <group name="">
-      <entry name="BlurRadius" type="int">
+      <entry name="blurRadius" type="int">
           <label>Blur radius</label>
           <default>40</default>
       </entry>
-      <entry name="AnimationDuration" type="int">
+      <entry name="animationDelay" type="int">
           <label>How quickly the change takes effect.</label>
           <default>400</default>
       </entry>
