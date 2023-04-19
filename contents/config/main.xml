@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd"
+>
+  <kcfgfile name=""/>
+  <group name="">
+      <entry name="BlurRadius" type="int">
+          <label>Blur radius</label>
+          <default>40</default>
+      </entry>
+      <entry name="AnimationDuration" type="int">
+          <label>How quickly the change takes effect.</label>
+          <default>400</default>
+      </entry>
+  </group>
+</kcfg>
