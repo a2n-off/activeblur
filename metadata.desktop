@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Active Blur
+Comment=Blur the wallpaper when a window is active
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=declarativescript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=Bouteiller Alan
+X-KDE-PluginInfo-Email=a2n.dev@pm.me
+X-KDE-PluginInfo-Name=activeblur
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-License=GPT3+
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
+
+X-KDE-ConfigModule=kwin/effects/configs/kcm_kwin4_genericscripted
