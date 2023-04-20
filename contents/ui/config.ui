@@ -81,11 +81,42 @@
         </item>
        </layout>
       </item>
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>wallpaper debug :</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="KImageFilePreview" name="kcfg_imgDebug"/>
+        </item>
+        <item>
+         <widget class="QTextBrowser" name="kcfg_urlDebug">
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="placeholderText">
+           <string>no value</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
      </layout>
     </widget>
    </item>
   </layout>
  </widget>
+ <customwidgets>
+  <customwidget>
+   <class>KImageFilePreview</class>
+   <extends>QWidget</extends>
+   <header>kimagefilepreview.h</header>
+  </customwidget>
+ </customwidgets>
  <resources/>
  <connections/>
 </ui>
