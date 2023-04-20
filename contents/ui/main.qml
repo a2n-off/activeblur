@@ -24,4 +24,15 @@ Item {
         console.log("ACTIVE-BLUR: shutdown")
     }
 
+
+    // todo - blur the wallpaper (if done I enable the condition below)
+    // todo - detect if a window is active - in the current desktop
+      // todo - detect desktop change
+      // todo - detect activity change
+    // todo - maybe detect wallpaper source change ?
+
+    // todo - set a value to debugUrl when a wallpaper is detected for a better understanding
+    // todo - add a img visualiseur with the same wallpaper and same blur effect for a better ux
+       // todo - what about the slideshow in this case...
+
 }
