@@ -13,5 +13,8 @@
           <label>How quickly the change takes effect.</label>
           <default>400</default>
       </entry>
+      <entry name="urlDebug" type="String">
+          <default>Nothing to show</default>
+      </entry>
   </group>
 </kcfg>
